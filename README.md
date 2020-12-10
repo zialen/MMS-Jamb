@@ -1,6 +1,6 @@
 # MMS-Jamb
 Zadaća iz kolegija MMS, rad na projektu Jamb iz godine 2017/18. Martina Gaćina i Alen Živković
-# TODO\
+# TODO
 • U nekim verzijama igre postoji i polje „Dva para“ pa bi to bilo zgodno ubaciti\
 •	Mogli bi se ubaciti neki zvučni efekti npr. kod bacanja kockica, upisivanja rezultata i mijenjanja igrača\
 •	Bilo bi dobro imati sve tablice od igrača ispisane, a ne samo tablicu od igrača koji je na redu kako bi ostali igrači mogli vidjeti svoja popunjena polja i smišljati taktiku unaprijed te bi se tako smanjilo vrijeme čekanja i igranja\
